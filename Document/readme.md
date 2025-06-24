@@ -24,7 +24,7 @@ Results:-
 
 -  Reduced ticket assignment time from minutes to seconds  
 -  Improved ticket response and resolution rate  
-- 👁 Enhanced visibility and control over ticketing operations  
+-  Enhanced visibility and control over ticketing operations  
 -  Prevented unauthorized access through proper ACLs
 
 Future Scope:-
